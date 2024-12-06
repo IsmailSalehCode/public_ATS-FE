@@ -1,1 +1,1 @@
-![Architecture](https://github.com/user-attachments/assets/a880f2f4-d7ec-4c73-8634-223d15dd554c)
+![FE2](https://github.com/user-attachments/assets/c29c730a-94d3-4e74-981f-65ebd39c988b)
