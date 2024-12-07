@@ -15,12 +15,9 @@ This repository has the code for one of three software products developed for an
 ![FE2](https://github.com/user-attachments/assets/c29c730a-94d3-4e74-981f-65ebd39c988b)
 
 
-# Presentation [BG]
-[ATS.pptx](https://docs.google.com/presentation/d/1h-ehkfDv_rdP3KRnAm30EMQIyLUszYTu/edit?usp=drive_link&ouid=108639976607761386658&rtpof=true&sd=true)
-
-
 # Documentation [BG]
 [Дипломна работа; ATS; Исмаил Салех.pdf](https://github.com/user-attachments/files/18040853/ATS.pdf)
+
 
 # Questions by the Examining Committee
 ### 1. What if a construction-site worker doesn't check-out / makes two identical entries?
